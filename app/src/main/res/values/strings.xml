@@ -10,6 +10,7 @@
     <string name="place_image">image of place from list</string>
     <string name="place_details_image">image of place on details view</string>
     <string name="button_for_map">button for opening the map</string>
+    <string name="details_btn">button for opening map</string>
 
     //Strings for food places
     <string name="zone_cafe_name">Zone Cafe</string>
